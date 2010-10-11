@@ -8,10 +8,6 @@ void print_statistics(vector<Player> players, vector<Game> games){
 
     cout<<"Ongoing games: "<<games.size()<<endl;
 
-vector<Player>::iterator p;
-
-
-
 
 
 
